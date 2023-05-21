@@ -1,0 +1,5 @@
+- /Users/CIS/Downloads/MicroIntegrator/wso2mi-4.2.0/bin
+$ sh micro-integrator.sh
+
+- /Users/CIS/Downloads/MicroIntegrator/wso2mi-dashboard-4.2.0/bin
+$ sh dashboard.sh
